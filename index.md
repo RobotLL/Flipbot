@@ -1,4 +1,4 @@
-## Learn from Intents: Learn to Grasp via Intention Discovery and its Application to Challenging Clutter
+## Flipbot: Learn Continual Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration
 
 ___
 ### Video
@@ -11,7 +11,7 @@ ___
 
 ### Code and Extras
 
-You can view the code [here](https://github.com/chao0716/LearnfromIntents).
+You can view the code [here](https://github.com/RobotLL/Flipbot).
 
 ### Paper
 
