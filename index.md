@@ -26,5 +26,7 @@ ___
 
 You can view the code [here](https://github.com/RobotLL/Flipbot).
 
-### Paper
+
+## Maintenance 
+For any technical issues, please contact: Chao Zhao (czhaobb@connect.ust.hk).
   
