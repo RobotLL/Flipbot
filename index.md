@@ -3,14 +3,25 @@
 ___
 ### Video
 
-**Flipping**
+
+**Full book flipping**
+
 <p align = "center">
-<img src="1.gif" width="320" height="180"> 
-<img src="2.gif" width="320" height="180"> 
+<img src="1.gif" width="640" height="360"> 
 </p>
+
+**Emptying paper-box**
+
+<p align = "center">
+<img src="2.gif" width="640" height="360"> 
+</p>
+
+**Flipping with different tilted angles**
+
 <p align = "center">
 <img src="3.gif" width="640" height="360"> 
 </p>
+
 ### Code and Extras
 
 You can view the code [here](https://github.com/RobotLL/Flipbot).
