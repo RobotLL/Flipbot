@@ -1,4 +1,4 @@
-## Flipbot: Learn Continual Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration
+## Flipbot: Learn Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration
 
 ___
 ### Video
