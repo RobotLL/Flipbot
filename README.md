@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flipbot: Learn Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration
 
 
@@ -73,6 +72,3 @@ if flex:
 
 ## Maintenance 
 For any technical issues, please contact: Chao Zhao (czhaobb@connect.ust.hk).
-=======
-
->>>>>>> fe9e76f54859d22922056a90e0694bbba91b2fa6
