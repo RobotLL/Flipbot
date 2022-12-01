@@ -66,7 +66,7 @@ if without ft:
 1. self.use_ft = False, self.hardcode = False
 2. python rl_train.py --play-only --model=noft.zip
 
-if flex:
+if flex-flip:
 1. self.use_ft = False, self.flex= True
 2. python rl_train.py --play-only
 
